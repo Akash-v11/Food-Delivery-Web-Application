@@ -101,7 +101,7 @@ Provides data access logic:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Akash-v11/Online-Food-Delivery-Application/tree/main 
+   https://github.com/Akash-v11/Online-Food-Delivery-Application/tree/main 
    ```
 2. Import the project into your IDE (e.g., Eclipse or IntelliJ).
 3. Configure the MySQL database:
