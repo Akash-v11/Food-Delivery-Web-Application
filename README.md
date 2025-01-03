@@ -120,8 +120,11 @@ Provides data access logic:
 4. Admin users can log in to manage restaurants, menus, and users.
 
 ## Screenshots
-Include screenshots from your uploaded images here if needed.
+![1](https://github.com/user-attachments/assets/e10cb02c-3cd3-4f31-abb0-e0c98fe99b93)
+![2](https://github.com/user-attachments/assets/cfc6fea0-0548-4685-8599-007203c0f33b)
+![3](https://github.com/user-attachments/assets/7568f9cc-f4fa-47e5-9662-367991f2b583)
 
+ 
 ## License
 This project is owned by Akash.v and licensed under the MIT License. See `LICENSE` for details.
 
