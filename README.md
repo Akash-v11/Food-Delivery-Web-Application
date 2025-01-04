@@ -127,7 +127,5 @@ Provides data access logic:
  
 ## License
 This project is owned by Akash.v and licensed under the MIT License. See `LICENSE` for details.
-
----
-
-Feel free to modify this file to suit your project-specific details.
+ 
+ 
