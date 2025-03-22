@@ -1,6 +1,6 @@
-Online Food Delivery Application
+Food Delivery Web Application
 
-# Online Food Delivery Application
+# Food Delivery Web Application
 
 ## Description
 The Online Food Delivery Application is a Java-based web application designed to manage food orders, restaurants, menus, and user details. It offers functionalities for both users and administrators to manage orders, menus, and restaurant information.
